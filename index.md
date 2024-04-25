@@ -6,3 +6,7 @@
 ###### subheading number 5
 
 I learned about writing different level heading in markdown syntax
+
+Now we can learn about importing or linking images to markdown file
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
